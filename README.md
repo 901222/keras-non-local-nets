@@ -1,5 +1,5 @@
 # Non-Local Neural Networks
-Keras implementation of Non-local blocks from the paper ["Non-local Neural Networks"](https://arxiv.org/abs/1711.07971)
+["Non-local Neural Networks"](https://arxiv.org/abs/1711.07971)
 
 - Support for `"Gaussian"`, `"Embedded Gaussian"` and `"Dot"` instantiations of the Non-Local block. 
 - Support for variable shielded computation mode (reduces computation by N**2 x, where N is default to 2)
